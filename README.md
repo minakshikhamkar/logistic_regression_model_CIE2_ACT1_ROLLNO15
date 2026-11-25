@@ -32,3 +32,8 @@ The model predicts the classification output and evaluates its performance using
 
 ## Platform
 Google Colab
+## Reference
+
+For project reference and learning resources, visit:
+
+[Complexiota GitHub](https://github.com/complexiota)
